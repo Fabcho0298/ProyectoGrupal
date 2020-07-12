@@ -1,0 +1,79 @@
+﻿
+.contact {
+    width: 85%;
+    height: 500px;
+    font-style: italic;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #fef5b7;
+    text-align: initial;
+
+    &__span {
+        font-size: 50px;
+        display: flex;
+        margin-bottom: 20px;
+        color: lightskyblue;
+    }
+
+
+    &__data--texto {
+        margin-top: -285px;
+        margin-left: 70px;
+    }
+
+    &__button {
+        background-color: darkred;
+        border: none;
+        color: white;
+        padding: 12px 16px;
+        font-size: 12px;
+        cursor: pointer;
+        position: relative;
+        top: 20px;
+        margin-left: 40%;
+    }
+
+    &__data--links {
+        margin-top: -350px;
+        margin-left: 70%;
+        font-size: 18px;
+    }
+
+    &__link--location {
+        color: red;
+        font-size: 24px;
+    }
+
+    &__link--phone {
+        color: forestgreen;
+        font-size: 24px;
+    }
+
+    &__link--what {
+        color: green;
+        font-size: 24px;
+    }
+
+    &__link--email {
+        color: whitesmoke;
+        font-size: 24px;
+    }
+
+    &__link--face {
+        color: blue;
+        font-size: 24px;
+    }
+
+    &__link--tweet {
+        color: dodgerblue;
+        font-size: 24px;
+    }
+
+    &__link--inta {
+        color: darkred;
+        font-size: 24px;
+    }
+}

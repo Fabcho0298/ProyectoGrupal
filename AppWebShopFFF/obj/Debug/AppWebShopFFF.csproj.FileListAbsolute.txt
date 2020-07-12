@@ -1,0 +1,130 @@
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\AppWebShopFFF.dll.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\AppWebShopFFF.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\AppWebShopFFF.pdb
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csc.exe
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csc.exe.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csc.rsp
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csi.exe
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csi.exe.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csi.rsp
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.AppContext.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Console.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.Compression.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Claims.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.ValueTuple.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\vbc.exe
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\vbc.exe.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\vbc.rsp
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\AccesData.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.SqlServer.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\Model.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\AccesData.pdb
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\AccesData.dll.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\Model.pdb
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.xml
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.SqlServer.xml
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.csproj.CopyComplete
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\AppWebShopFFF.dll.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\AppWebShopFFF.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\AppWebShopFFF.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csc.exe
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csc.exe.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csc.rsp
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csi.exe
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csi.exe.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\csi.rsp
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.AppContext.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Console.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.Compression.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Claims.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.ValueTuple.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\vbc.exe
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\vbc.exe.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\vbc.rsp
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\VBCSCompiler.exe
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\AccesData.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.SqlServer.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\Model.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\AccesData.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\AccesData.dll.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\Model.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.xml
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\EntityFramework.SqlServer.xml
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.csproj.CopyComplete
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AppWebShopFFF\obj\Debug\AppWebShopFFF.pdb

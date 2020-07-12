@@ -1,0 +1,12 @@
+C:\Users\Felipe\source\repos\AppWebShopFFF\Model\bin\Debug\Model.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\Model\bin\Debug\Model.pdb
+C:\Users\Felipe\source\repos\AppWebShopFFF\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\AppWebShopFFF\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\AppWebShopFFF\Model\obj\Debug\Model.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\Model\obj\Debug\Model.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\Model\bin\Debug\Model.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\Model\bin\Debug\Model.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\Model\obj\Debug\Model.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\Model\obj\Debug\Model.pdb

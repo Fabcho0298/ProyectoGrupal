@@ -1,0 +1,40 @@
+﻿
+.form__label {
+    width: 100px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.form__textbox {
+    border-radius: 30px;
+    background-color: black;
+}
+
+
+.form__button {
+    width: 100px;
+    margin-left: 2%;
+    background-color: darkred;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    border-radius: 30px;
+    border-color: solid whitesmoke;
+    cursor: pointer;
+}
+
+.form__button--apply {
+    width: 100px;
+    margin-left: 2%;
+    margin-top: 20px;
+    background-color: cadetblue;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    border-radius: 30px;
+    border-color: 4px solid whitesmoke;
+    cursor: pointer;
+}

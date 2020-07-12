@@ -1,0 +1,136 @@
+﻿
+.section {
+    &__presentation {
+        width: 60%;
+        height: 200px;
+        background: none;
+        display: flex;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 25px;
+        border-left: 5px solid darkred;
+    }
+
+    &__title {
+        text-align: center;
+        font-family: italic;
+        font-size: 30px;
+        color: darkred;
+    }
+
+    &__text {
+        font-size: 20px;
+        font-family: italic;
+    }
+
+    &__newestproducts { /*PRODUCTS-HOME*/
+        width: 870px;
+        height: 450px;
+        margin-top: 50px;
+        margin-left: 19%;
+        text-align: center;
+        background: none;
+    }
+
+    &__mostsold { /*MOST SOLD*/
+        width: 870px;
+        height: 450px;
+        margin-top: 50px;
+        margin-left: 19%;
+        text-align: center;
+        background: none;
+    }
+
+    &__sponsors { /*SPONSORS*/
+        width: 92%;
+        height: 100px;
+        margin-top: 50px;
+        margin-left: 40px;
+        display: flex;
+        background: linear-gradient(white, grey);
+        border-color: black;
+        border-radius: 50px;
+    }
+
+    &__icons {
+        color: #FFFFFF;
+        margin: 10px;
+        margin-right: 10px;
+        font-size: 65px;
+        padding: 8px;
+        transition: .3s linear;
+    }
+
+    &__icons:hover {
+        color: darkred;
+        cursor: pointer;
+    }
+    /*SECCION CATEGORIAS*/
+    &_category {
+        width: 100%;
+        height: 450px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-bottom: solid darkred;
+    }
+
+
+    &__cards {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        margin-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        background: linear-gradient(white, darkred);
+    }
+
+    &__button {
+        width: 100%;
+        height: 20px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+        float: right;
+        text-align: center;
+    }
+    /*CATALOG*/
+    &__catalog {
+        width: 100%;
+        background-color: none;
+        margin-top: 20px;
+        padding: 15px;
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+
+    &__filtersCatalog {
+        width: 300px;
+        height: 450px;
+        margin-top: 15px;
+        padding: 20px;
+        border-radius: 15px;
+        margin-left: 20px;
+        float: left;
+        background: linear-gradient(white, #F9EE79);
+    }
+
+    &__listArticles {
+        width: 700px;
+        height: 100%;
+        text-align: center;
+        float: left;
+        margin-top: 15px;
+        margin-left: 15%;
+        padding: 15px;
+        background-color: none;
+    }
+
+    &__label {
+        margin-top: 15px;
+    }
+
+    &__label--password {
+        margin-top: 40px;
+    }
+}

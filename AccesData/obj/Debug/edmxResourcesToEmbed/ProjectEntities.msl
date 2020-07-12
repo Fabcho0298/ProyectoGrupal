@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbFFFModelStoreContainer" CdmEntityContainer="DbFFFEntities">
+    <EntitySetMapping Name="TblArticulo">
+      <EntityTypeMapping TypeName="DbFFFModel.TblArticulo">
+        <MappingFragment StoreEntitySet="TblArticulo">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="peso" ColumnName="peso" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="tipoArticulo" ColumnName="tipoArticulo" />
+          <ScalarProperty Name="calificacion" ColumnName="calificacion" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="precioCompra" ColumnName="precioCompra" />
+          <ScalarProperty Name="precioVenta" ColumnName="precioVenta" />
+          <ScalarProperty Name="precioVentaIva" ColumnName="precioVentaIva" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TblUsuarios">
+      <EntityTypeMapping TypeName="DbFFFModel.TblUsuarios">
+        <MappingFragment StoreEntitySet="TblUsuarios">
+          <ScalarProperty Name="tipoIdentificación" ColumnName="tipoIdentificación" />
+          <ScalarProperty Name="NumIdentificación" ColumnName="NumIdentificación" />
+          <ScalarProperty Name="nombreCompleto" ColumnName="nombreCompleto" />
+          <ScalarProperty Name="contrasenia" ColumnName="contrasenia" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,24 @@
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\AccesData.dll.config
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\AccesData.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\AccesData.pdb
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.xml
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\obj\Debug\AccesData.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\obj\Debug\AccesData.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\obj\Debug\AccesData.csproj.CopyComplete
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\obj\Debug\AccesData.dll
+C:\Users\Felipe\source\repos\AppWebShopFFF\AccesData\obj\Debug\AccesData.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\AccesData.dll.config
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\AccesData.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\AccesData.pdb
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.xml
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\obj\Debug\AccesData.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\obj\Debug\AccesData.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\obj\Debug\AccesData.csproj.CopyComplete
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\obj\Debug\AccesData.dll
+C:\Users\flavi\Documents\UCR\IIX Semestre\Multimedios\AppWebShopFFF\AppWebShopFFF\AccesData\obj\Debug\AccesData.pdb

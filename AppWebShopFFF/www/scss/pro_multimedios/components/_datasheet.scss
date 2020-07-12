@@ -1,0 +1,31 @@
+﻿
+.datasheed {
+    width: 85%;
+    height: 1000px;
+    font-style: italic;
+    font-size: 20px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 50px;
+    border: 3px;
+    border-color: black;
+
+
+    &__data--secundary {
+        text-align: center;
+        background-color: #fef5b7;
+        width: 45%;
+        height: 450px;
+        margin-left: 50%;
+        margin-top: -440px;
+    }
+
+    &__button {
+        background-color: darkred;
+        border: none;
+        color: white;
+        padding: 12px 16px;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+}

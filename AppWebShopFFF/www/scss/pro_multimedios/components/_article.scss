@@ -1,0 +1,142 @@
+﻿
+.article {
+
+    &__presentation {
+        width: 65%;
+        height: 150px;
+        margin-left: 20px;
+    }
+
+    &__span {
+        color: darkred;
+        font-size: 20px;
+        font-family: italic;
+    }
+
+    &__mostsold {
+        width: 800px;
+        height: 380px;
+        margin-left: 50px;
+        display: flex;
+        background: white;
+    }
+
+    &__sponsors {
+        width: 900px;
+        height: 90px;
+        margin-left: 150px;
+        background-color: none;
+        padding: 10px;
+        border-right: 1px solid white;
+        text-align: center;
+        float: left;
+    }
+
+
+    &__card {
+        width: 250px;
+        height: 400px;
+        border-radius: 8px;
+        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+        background: linear-gradient(white, darkred);
+        overflow: hidden;
+        margin: 20px;
+        text-align: center;
+        transition: all 0.25s;
+    }
+
+    &__card:hover {
+        transform: translate(-15px);
+        box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+    }
+
+
+    &__imgcategory {
+        width: 250px;
+        height: 400px;
+        margin: 0%;
+        background-size: auto;
+        background-position: center;
+    }
+
+    &__containerimg {
+        position: relative;
+        width: 100%;
+        height: 370px;
+        margin: auto;
+        /*background-image: url(../images/fondo.jpg);*/
+        background-size: cover;
+        transition: all 0.6s;
+    }
+
+    &__containerimg p {
+        position: absolute;
+        left: 20px;
+        top: 120px;
+        color: ivory;
+    }
+
+    &__containerimg::before {
+        position: absolute;
+        top: 10px;
+        left: 20px;
+        content: "";
+        width: 80%;
+        height: 2px;
+        color: skyblue;
+        transition: all 0.6s;
+    }
+
+    &__containerimg::after {
+        position: absolute;
+        bottom: 10px;
+        right: 20px;
+        content: "";
+        width: 80%;
+        height: 2px;
+        transition: all 0.6s;
+    }
+
+    &__containerimg h4 {
+        transform: translateX(-110%);
+    }
+
+    &__card p {
+        padding: 0 1rem;
+        font-weight: 300;
+        font-size: 16px;
+        transform: translateX(120%);
+    }
+
+    &__containerimg:hover {
+        opacity: 99%;
+    }
+
+    &__containerimg:hover h4 {
+        transform: translateX(0%);
+        transition: all 0.6s;
+    }
+
+
+    &__containerimg:hover p {
+        transform: translateX(0%);
+        transition: all 0.6s;
+    }
+    /*CATALOG*/
+    &__image {
+        width: 200px;
+        height: 250px;
+    }
+
+    &__catalog {
+        background-color: aliceblue;
+        height: 380px;
+        margin-right: 30px;
+        margin-top: 10px;
+        border-radius: 15px;
+    }
+}
+.card__title {
+    font-weight: 600;
+    margin-top: 10px;
+}
